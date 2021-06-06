@@ -1,0 +1,9 @@
+C:\IC\MVP\Talent_Competition\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.deps.json
+C:\IC\MVP\Talent_Competition\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\IC\MVP\Talent_Competition\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\IC\MVP\Talent_Competition\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csprojAssemblyReference.cache
+C:\IC\MVP\Talent_Competition\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+C:\IC\MVP\Talent_Competition\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+C:\IC\MVP\Talent_Competition\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+C:\IC\MVP\Talent_Competition\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.dll
+C:\IC\MVP\Talent_Competition\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.pdb

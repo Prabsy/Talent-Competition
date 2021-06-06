@@ -1,0 +1,17 @@
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\appsettings.json
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.deps.json
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.runtimeconfig.json
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.dll
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Api.pdb
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\IC\MVP\Talent_Competition\Talent.Api\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\IC\MVP\Talent_Competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csprojAssemblyReference.cache
+C:\IC\MVP\Talent_Competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+C:\IC\MVP\Talent_Competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+C:\IC\MVP\Talent_Competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+C:\IC\MVP\Talent_Competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.csproj.CopyComplete
+C:\IC\MVP\Talent_Competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.dll
+C:\IC\MVP\Talent_Competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.pdb
+C:\IC\MVP\Talent_Competition\Talent.Api\obj\Release\netcoreapp2.0\Talent.Api.genruntimeconfig.cache
