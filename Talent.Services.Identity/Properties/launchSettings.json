@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:60998/",
+      "applicationUrl": "https://talentservicesidentity20210607150824.azurewebsites.net/",
       "sslPort": 0
     }
   },
@@ -21,7 +21,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:60998/"
+      "applicationUrl": "https://talentservicesidentity20210607150824.azurewebsites.net/"
     },
     "Docker": {
       "commandName": "Docker",

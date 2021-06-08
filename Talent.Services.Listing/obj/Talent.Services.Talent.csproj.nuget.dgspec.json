@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj": {}
+    "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj": {}
   },
   "projects": {
-    "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj": {
+    "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj",
+        "projectUniqueName": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj",
         "projectName": "Talent.Common",
-        "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj",
+        "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj",
         "packagesPath": "C:\\Users\\prabhanjansimha\\.nuget\\packages\\",
-        "outputPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\obj\\",
+        "outputPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj": {
+    "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
+        "projectUniqueName": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
         "projectName": "Talent.Services.Talent",
-        "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
+        "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Listing\\Talent.Services.Talent.csproj",
         "packagesPath": "C:\\Users\\prabhanjansimha\\.nuget\\packages\\",
-        "outputPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Listing\\obj\\",
+        "outputPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Listing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -141,21 +141,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
-            "targetAlias": "netcoreapp2.0",
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj": {
-                "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj"
+              "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj": {
+                "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj"
               },
-              "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj": {
-                "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj"
+              "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj": {
+                "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj"
               }
             }
           }
@@ -167,8 +167,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
-          "targetAlias": "netcoreapp2.0",
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.AspNetCore.All": {
               "target": "Package",
@@ -177,7 +177,7 @@
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
@@ -219,14 +219,14 @@
         }
       }
     },
-    "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj": {
+    "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
+        "projectUniqueName": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
         "projectName": "Talent.Services.Profile",
-        "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
+        "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
         "packagesPath": "C:\\Users\\prabhanjansimha\\.nuget\\packages\\",
-        "outputPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\obj\\",
+        "outputPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -246,8 +246,8 @@
           "netcoreapp2.0": {
             "targetAlias": "netcoreapp2.0",
             "projectReferences": {
-              "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj": {
-                "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj"
+              "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj": {
+                "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj"
               }
             }
           }

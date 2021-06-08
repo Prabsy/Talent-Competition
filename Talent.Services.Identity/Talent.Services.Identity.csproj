@@ -15,6 +15,7 @@
 <PropertyGroup>
     <PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <NoWin32Manifest>true</NoWin32Manifest>
 </PropertyGroup>
   <ItemGroup>
     <Folder Include="wwwroot\" />

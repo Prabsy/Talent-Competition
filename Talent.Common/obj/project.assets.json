@@ -10665,11 +10665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj",
+      "projectUniqueName": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj",
       "projectName": "Talent.Common",
-      "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj",
+      "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj",
       "packagesPath": "C:\\Users\\prabhanjansimha\\.nuget\\packages\\",
-      "outputPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\obj\\",
+      "outputPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

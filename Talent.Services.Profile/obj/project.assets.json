@@ -13727,11 +13727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
+      "projectUniqueName": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
       "projectName": "Talent.Services.Profile",
-      "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
+      "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\Talent.Services.Profile.csproj",
       "packagesPath": "C:\\Users\\prabhanjansimha\\.nuget\\packages\\",
-      "outputPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Services.Profile\\obj\\",
+      "outputPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Services.Profile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13751,8 +13751,8 @@
         "netcoreapp2.0": {
           "targetAlias": "netcoreapp2.0",
           "projectReferences": {
-            "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj": {
-              "projectPath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj"
+            "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj": {
+              "projectPath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj"
             }
           }
         }

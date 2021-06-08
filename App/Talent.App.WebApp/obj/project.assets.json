@@ -13244,11 +13244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IC\\MVP\\Talent_Competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectUniqueName": "C:\\IC\\MVP\\Talent-Competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "projectName": "Talent.App.WebApp",
-      "projectPath": "C:\\IC\\MVP\\Talent_Competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+      "projectPath": "C:\\IC\\MVP\\Talent-Competition\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
       "packagesPath": "C:\\Users\\prabhanjansimha\\.nuget\\packages\\",
-      "outputPath": "C:\\IC\\MVP\\Talent_Competition\\App\\Talent.App.WebApp\\obj\\",
+      "outputPath": "C:\\IC\\MVP\\Talent-Competition\\App\\Talent.App.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

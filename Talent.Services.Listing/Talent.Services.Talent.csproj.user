@@ -3,5 +3,6 @@
   <PropertyGroup>
     <WebStackScaffolding_ViewDialogWidth>600</WebStackScaffolding_ViewDialogWidth>
     <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>TalentServicesTalent20210607154210 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

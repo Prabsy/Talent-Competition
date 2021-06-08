@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "be1ADH+J7c0uOoW54mSujQiObreCPvE5d6wIv1HbTPW9RGu0CsS332pB9jYUVwqNKa28nplMh7USF7xUa3bEaQ==",
+  "dgSpecHash": "rhmBVXW6SrLRNXiKnT7v7kI1Ywpl+1MPHvBalDE1gzhKJjhFQ+BnekE3wpub6eWunnZu0Pdw8rwmqgo344zrQw==",
   "success": true,
-  "projectFilePath": "C:\\IC\\MVP\\Talent_Competition\\Talent.Common\\Talent.Common.csproj",
+  "projectFilePath": "C:\\IC\\MVP\\Talent-Competition\\Talent.Common\\Talent.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prabhanjansimha\\.nuget\\packages\\awssdk.core\\3.3.24\\awssdk.core.3.3.24.nupkg.sha512",
     "C:\\Users\\prabhanjansimha\\.nuget\\packages\\awssdk.s3\\3.3.18.3\\awssdk.s3.3.3.18.3.nupkg.sha512",

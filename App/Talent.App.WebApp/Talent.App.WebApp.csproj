@@ -11,6 +11,7 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     <DockerfileContext>..\..</DockerfileContext>
+    <UserSecretsId>0d5ca12c-0e90-44db-b929-caefba4382c1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
